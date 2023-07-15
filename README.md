@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hi there 👋, I'm Tal Sitton
+[![Reddit Badge](https://img.shields.io/badge/-Reddit-FF8700?logo=Reddit&logoColor=white)](https://www.reddit.com/user/timycool/)
 
+## 📈 Github Stats
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tal-sitton&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tal-sitton&show_icons=true&hide_border=true&layout=compact&theme=tokyonight"/>
+</p>
 <!--
 **tal-sitton/tal-sitton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
