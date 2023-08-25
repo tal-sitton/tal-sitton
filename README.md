@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Tal Sitton
+## Hi there 👋, I'm Tal
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-FF8700?logo=Reddit&logoColor=white)](https://www.reddit.com/user/timycool/)
 
 ## 📈 Github Stats
