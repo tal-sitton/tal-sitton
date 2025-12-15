@@ -1,5 +1,4 @@
-## Hi there 👋, I'm Tal
-[![Reddit Badge](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/timycool/)
+# Hi there 👋, I'm Tal
 
 ## Used Techonologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
