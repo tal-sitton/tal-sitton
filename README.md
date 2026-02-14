@@ -11,8 +11,8 @@
 
 ## 📈 Github Stats
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tal-sitton&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tal-sitton&show_icons=true&hide_border=true&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=tal-sitton&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tal-sitton&show_icons=true&hide_border=true&layout=compact&theme=tokyonight"/>
 </p>
 <!--
 **tal-sitton/tal-sitton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
